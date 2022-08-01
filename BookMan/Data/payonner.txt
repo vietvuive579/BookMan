@@ -1,0 +1,10 @@
+Gồm 3 file: dataloader.py, model.py, run.py
+- dataloader.py: load data
+- model.py: RotatE
+- run.py: 
+
+KS2L7LH0 - payonner SOS
+
+Anh của bạn - An
+Bà nội được sinh ra - Dong Ha
+Model xe ô tô đầu tiên - Volvo
